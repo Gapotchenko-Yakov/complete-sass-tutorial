@@ -3,7 +3,7 @@
     color: $val;
   }
 
-  .text-hover-#{key} {
+  .text-hover-#{$key} {
     &:hover {
       color: $val;
     }
